@@ -1,4 +1,4 @@
-# DBD::mysql - database driver for Perl
+# DBD::mysql - database driver for Perl [![Build Status](https://travis-ci.org/ericcurtin/DBD-mysql.svg?branch=master)](https://travis-ci.org/ericcurtin/DBD-mysql)
 
 This is the Perl [DBI](https://metacpan.org/pod/DBI) driver for access to MySQL databases.
 
